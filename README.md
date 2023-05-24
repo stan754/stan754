@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stan754
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c, c++ and python
 - 📫 How to reach me stan@stanvdwiel.nl
 
 <!---
