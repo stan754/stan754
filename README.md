@@ -4,6 +4,7 @@
   - Embedded programming (C, C++, C#)
   - Cyber Security
   - Infrastructure (Microsoft Intune, PowerShell)
+- 🙋‍♂️ Volunteering at CoderDojo Helmond
 - 📫 How to reach me stan@stanvdwiel.nl
 
 <!---
