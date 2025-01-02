@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @stan754
-- 🌱 I’m currently learning c, c++ and python
+- 🌱 I’m currently learning PowerShell
+- 🎓 I'm currently studying at Fontys ICT
+  - Embedded programming (C, C++, C#)
+  - Cyber Security
+  - Infrastructure (Microsoft Intune, PowerShell)
 - 📫 How to reach me stan@stanvdwiel.nl
 
 <!---
